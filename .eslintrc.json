@@ -12,6 +12,7 @@
         "react/prop-types": "off",
         "no-console":"off",
         "func-names":"off",
-        "import/prefer-default-export": "off"
+        "import/prefer-default-export": "off",
+        "no-undef":"off"
     }
 }
